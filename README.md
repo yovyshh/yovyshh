@@ -10,7 +10,6 @@
 ### 🚀 About Me
 I'm a passionate developer focused on Machine Learning, LLM Fine-tuning, and Web Technologies. Currently working on high-performance pipelines and interactive applications.
 
-- ⌨️ **Monkeytype:** 132 WPM (Master)
 - 🧠 **ML Focus:** Fine-tuning models with Unsloth & PyTorch
 - 💻 **Main Stack:** React, Python, and C/Java
 
