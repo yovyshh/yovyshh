@@ -1,8 +1,5 @@
 # Hi there, I'm Vaishnav (yovyshh) 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yovyshh&label=profile%20views&color=0e75b6&style=flat" alt="visitors" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnav-t-prakash-722157402/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
