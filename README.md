@@ -1,4 +1,4 @@
-# Hi there, I'm Vaishnav (yovyshh) 👋
+# Hi there, I'm Vaishnav (yovyshh) 
 
 
 <p align="center">
@@ -7,11 +7,11 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I'm a passionate developer focused on Machine Learning, LLM Fine-tuning, and Web Technologies. Currently working on high-performance pipelines and interactive applications.
 
-- 🧠 **ML Focus:** Fine-tuning models with Unsloth & PyTorch
-- 💻 **Main Stack:** React, Python, and C/Java
+-  **ML Focus:** Fine-tuning models with Unsloth & PyTorch
+-  **Main Stack:** React, Python, and C/Java
 
 ---
 
@@ -22,7 +22,7 @@ I'm a passionate developer focused on Machine Learning, LLM Fine-tuning, and Web
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> |
 ---
 
-### 📊 My Stats
+###  My Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yovyshh&theme=dark" alt="streak stats" />
 </p>
