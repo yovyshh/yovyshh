@@ -8,7 +8,7 @@
 ---
 
 ###  About Me
-I'm a passionate developer focused on Machine Learning, LLM Fine-tuning, and Web Technologies. Currently working on high-performance pipelines and interactive applications.
+I'm a developer focused on Machine Learning, LLM Fine-tuning, and Web Technologies. I also do editing as a part time job and i have 6 years of experience in it. 
 
 -  **ML Focus:** Fine-tuning models with Unsloth & PyTorch
 -  **Main Stack:** React, Python, and C/Java
