@@ -1,39 +1,64 @@
-# Hi there, I'm Vaishnav (yovyshh)
+<h1 data-importer="text" align="center">Hi there, I'm Vaishnav (yovyshh)</h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/vaishnav-t-prakash-722157402/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+###
 
----
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/vaishnav-t-prakash-722157402/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-### About Me
-I'm a developer focused on Machine Learning, LLM Fine-tuning, and Web Technologies. I also do editing as a part-time job and I have 6 years of experience in it.
-- **ML Focus:** Fine-tuning models with Unsloth & PyTorch
-- **Main Stack:** React, Python, and C/Java
+###
 
----
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNtdzg0OTlhYTJseDA4azdsNXNybDJoczBpa2gzdHNzMDFrOTltZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6o5muKaBkYqP0eTUC/giphy.gif"  />
+</div>
 
-### Languages and Tools
+###
 
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /> |
+<h2 data-importer="text" align="left">About Me</h2>
 
----
+###
 
-### My Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yovyshh&theme=dark" alt="streak stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yovyshh&show_icons=true&theme=dark" alt="yovyshh's GitHub stats" />
-</p>
+<h3 data-importer="text" align="left">I'm a developer focused on Machine Learning, LLM Fine-tuning, and Web Technologies. I also do editing as a part-time job and I have 6 years of experience in it.<br><br>    - ML Focus: Fine-tuning models with Unsloth & PyTorch<br> - Main Stack: React, Python, and C/Java<br>- Also can type at 132 wpm (huge flex)</h3>
 
----
+###
 
-### Typing Performance
-<p align="left">
-<a href="https://monkeytype.com/profile/vyshh">
-<img src="https://img.shields.io/badge/Monkeytype-132_WPM-yellow?style=for-the-badge&logo=monkeytype&logoColor=black" alt="Monkeytype Speed" />
-</a>
-</p>
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/yovyshh/yovyshh/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/yovyshh/yovyshh/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/yovyshh/yovyshh/snake-output/snake.svg" alt="Snake animation" />
